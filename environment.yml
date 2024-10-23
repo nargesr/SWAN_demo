@@ -6,5 +6,3 @@ dependencies:
   - xeus-python
   - pandas
   - bqplot
-  - ipycanvas
-  - ipywidgets
